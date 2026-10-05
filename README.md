@@ -1,4 +1,4 @@
-# 🚢 Task 02 - Titanic Dataset Analysis (EDA & Data Cleaning)
+# 🚢  Titanic Dataset Analysis (EDA & Data Cleaning)
 
 
 
