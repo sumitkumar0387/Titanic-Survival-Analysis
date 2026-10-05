@@ -20,9 +20,9 @@ To perform *Exploratory Data Analysis (EDA)* and *Data Cleaning* on the Titanic 
 ---
 
 ## 📁 Project Files
-- [Task02/Task02_Titanic_EDA.pdf.ipynb](./Task02/Task02_Titanic_EDA.pdf.ipynb) – Jupyter notebook containing all code and analysis
-- [Task02/titanic_cleaned.csv](./Task02/titanic_cleaned.csv) – Cleaned dataset after preprocessing
-  
+
+- [Titanic Survival Analysis Notebook](Titanic_analysis/Titanic_Survival_Analysis.ipynb) – Jupyter notebook containing the complete analysis
+- [Cleaned Titanic Dataset](Titanic_analysis/titanic_cleaned.csv) – Cleaned dataset after preprocessing 
 ---
 
 ## 📊 Key Analysis Performed
